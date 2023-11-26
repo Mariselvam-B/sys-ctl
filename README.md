@@ -4,6 +4,17 @@
 
 how to use?
 (answer)
- - just install and import the pakage and run the python file then give your input in the terminal to get your system informations
- - Install comment - pip install sys-ctl
- - import comment import systemdata
+just install and import the pakage and use functions to get your system informations and controll your brightness and volume
+Install comment - pip install sys-ctl
+import comment import systemdata
+
+functions
+
+sys_info()
+boot_time()
+cpu_info()
+memmory_info()
+disk_info()
+network_info()
+brightness_ctl(int)
+volume_ctl(int)
